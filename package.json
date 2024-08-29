@@ -52,6 +52,9 @@
             },{
                 "language": "python",
                 "path": "./snippets/numerical.json"
+            },{
+                "language": "python",
+                "path": "./snippets/io.json"
             }
         ]
     }
